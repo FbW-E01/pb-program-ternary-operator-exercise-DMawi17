@@ -10,12 +10,12 @@ if (a + b < 4) {
 } */
 
 /* _________________________________ */
-// let a=3;
-// let b=6;
+let a=3;
+let b=6;
 
-// a + b < 4 ? (result = "Below") : (result = "Over");
-// //write your code here 
-// console.log(result)
+a + b < 4 ? (result = "Below") : (result = "Over");
+//write your code here 
+console.log(result)
 /* _________________________________ */
 
 
@@ -31,14 +31,14 @@ else
 
 /* _________________________________ */
 
-// let score = 42;
-// let msg = "";
+let score = 42;
+let msg = "";
 
-// score > 1337
-//     ? (msg = "This is a new highscore!")
-//     : (msg = "You need more points to beat the highscore!");
-// //write your code here 
-// console.log(msg)
+score > 1337
+    ? (msg = "This is a new highscore!")
+    : (msg = "You need more points to beat the highscore!");
+//write your code here 
+console.log(msg)
 
 /* _________________________________ */
 
